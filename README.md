@@ -13,8 +13,8 @@ This is a small project made to practice JavaScript, HTML, and CSS. You can play
 
 ## 🚀 Live Demo & APK
 
-- **Play in browser:** [Live Demo](https://tic-tac-toe12356.netlify.app/) :contentReference[oaicite:0]{index=0}  
-- **Download APK (Android):** [APK from Median](https://median.co/share/mpzkrw) :contentReference[oaicite:1]{index=1}  
+- **Play in browser:** [Live Demo](https://tic-tac-toe12356.netlify.app/)   
+- **Download APK (Android):** [APK from Median](https://median.co/share/mpzkrw)   
 
 ---
 
