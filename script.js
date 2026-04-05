@@ -34,7 +34,11 @@ const enableButtons = () => {
   //disable popup
   popupRef.classList.add("hide");
 };
+function downloadAPK() {
+    alert("APK will start downloading. After download, allow 'Install from unknown sources' to install.");
 
+    window.open("https://www.mediafire.com/file/tgq0zrqgnk49ik5/Tic_Tac_Toe.apk/file", "_blank");
+}
 //This function is executed when a player wins
 const winFunction = (letter) => {
   disableButtons();
