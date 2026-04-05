@@ -1,61 +1,113 @@
-# Tic Tac Toe Game 🎮
+# ❌⭕ Tic Tac Toe Game (Web App)
 
-A simple web-based Tic Tac Toe game.  
-Also available as an Android APK.  
+A simple yet interactive **Tic Tac Toe Game** built using **HTML, CSS, and JavaScript**, featuring a clean UI, smooth gameplay, and responsive design.
 
----
-
-## 🔍 About
-
-This is a small project made to practice JavaScript, HTML, and CSS. You can play Tic Tac Toe either in your browser or install the Android version via the APK.  
+🎮 Play against a friend on the same device and enjoy a classic game with a modern touch.
 
 ---
 
-## 🚀 Live Demo & APK
+## 🔗 Live Demo
 
-- **Play in browser:** [Live Demo](https://tic-tac-toe12356.netlify.app/) :contentReference[oaicite:0]{index=0}  
-- **Download APK (Android):** [APK from Median](https://median.co/share/mpzkrw) :contentReference[oaicite:1]{index=1}  
+👉 https://tic-tac-toe12356.netlify.app/
+
+---
+## 📥 Download APK
+
+https://www.mediafire.com/file/c943yiimcao3jgp/Tic_Tac_Toe+V1.0.0.apk/file
 
 ---
 
-## 🛠️ Built With
+## 📥 GitHub Download
 
-- **HTML** — structure of the UI  
-- **CSS** — styling and layout  
-- **JavaScript** — game logic, event handling, user interaction  |
-  
- ✅ Features
-Two-player game on the same device
+👉 https://github.com/RajdeepDas012/_Tic_Tac_Toe_-Game/releases/tag/V1.0.0
 
-Game reset function
-
-Works in browser and as Android APK
-
-📷 Screenshots
- null
-
-🧩 Things to Improve / Future Ideas :
-
-Add an AI opponent so one player can play against the computer
-
-Add better styling / animations
-
-Add sound effects or visual effects
-
-Make the game mobile-friendly / responsive UI
-
-📄 License
-This repo is open source. Feel free to use, modify, and experiment as you like.
 ---
 
-## 🎮 How to Use
+## ✨ Features
 
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/RajdeepDas012/_Tic_Tac_Toe_-Game.git
-Open index.html in a browser to play locally.
+* ❌⭕ Two-player gameplay (Player X vs Player O)
+* 🧠 Win detection logic (rows, columns, diagonals)
+* 🔄 Restart / Reset game functionality
+* 📱 Fully responsive (mobile + desktop)
+* 🎨 Clean and modern UI
+* ⚡ Fast and lightweight
 
-If using the Android version, install the APK on your device (enable app installs from unknown sources if needed).
+---
 
+## 🛠️ Tech Stack
 
+* **Frontend:** HTML, CSS, JavaScript
+* **Logic Handling:** Vanilla JavaScript (DOM manipulation)
+* **Deployment:** Vercel / GitHub Pages
 
+---
+
+## 📂 Project Structure
+
+```
+_Tic_Tac_Toe_-Game/
+│── index.html
+│── style.css
+│── script.js
+```
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+
+```
+git clone https://github.com/RajdeepDas012/_Tic_Tac_Toe_-Game.git
+```
+
+### 2. Open the project
+
+Simply open `index.html` in your browser
+
+---
+
+## 🎮 How to Play
+
+1. Player X starts the game
+2. Players take turns placing their marks
+3. First player to align 3 marks (row/column/diagonal) wins
+4. If all cells are filled with no winner → Draw
+
+---
+
+## 🧠 Game Logic
+
+* Tracks player turns dynamically
+* Checks all winning combinations after each move
+* Prevents overwriting filled cells
+* Displays winner or draw result
+
+---
+
+## 🎯 Future Improvements
+
+* 🤖 AI opponent (Single-player mode)
+* 🌐 Online multiplayer
+* 🎵 Sound effects & animations
+* 🌙 Dark mode support
+* 🏆 Score tracking system
+
+---
+
+## 👨‍💻 Author
+
+**Rajdeep Das**
+📌 GitHub: https://github.com/RajdeepDas012
+
+---
+
+## ⭐ Support
+
+If you like this project, give it a ⭐ and share it!
+
+---
+
+## 📄 License
+
+This project is open-source and available under the MIT License.
