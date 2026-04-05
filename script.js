@@ -37,7 +37,7 @@ const enableButtons = () => {
 function downloadAPK() {
     alert("APK will start downloading. After download, allow 'Install from unknown sources' to install.");
 
-    window.open("https://www.mediafire.com/file/tgq0zrqgnk49ik5/Tic_Tac_Toe.apk/file", "_blank");
+    window.open("https://www.mediafire.com/file/c943yiimcao3jgp/Tic_Tac_Toe+V1.0.0.apk/file", "_blank");
 }
 //This function is executed when a player wins
 const winFunction = (letter) => {
