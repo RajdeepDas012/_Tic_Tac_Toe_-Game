@@ -38,6 +38,15 @@ button:hover {
   color: #00091f;
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
 }
+.downloadAPK {
+    position: fixed;
+    top: 15px;
+    right: 15px;
+    font-size: 22px;
+    color: white;
+    cursor: pointer;
+    z-index: 1000;
+}
 #restart {
   font-size: 1.3em;
   padding: 1em;
